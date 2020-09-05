@@ -1,0 +1,162 @@
+{
+  "kit": {
+    "name": "Test Driven Development problem - FizzBuzz like",
+    "label": "Test Driven Development problem - FizzBuzz like",
+    "label_ja": "テスト駆動開発お題 FizzBuzzっぽいやつ",
+    "height": "64px",
+    "width": "64px",
+    "boxAndComponents": {
+      "TDD Description": null,
+      "TODO": [
+        "TDD 01",
+        "TDD 02",
+        "TDD 03",
+        "TDD 04",
+        "TDD 05",
+        "TDD 06"
+      ],
+      "WIP": null,
+      "Done": null
+    },
+    "usedComponentNames": [
+      "TDD Description",
+      "TODO",
+      "WIP",
+      "Done",
+      "TDD 01",
+      "TDD 02",
+      "TDD 03",
+      "TDD 04",
+      "TDD 05",
+      "TDD 06"
+    ]
+  },
+  "components": [
+    {
+      "name": "TDD Description",
+      "text": "FizzBuzz",
+      "text_ja": "100",
+      "color": "darkkhaki",
+      "textColor": "black",
+      "handArea": false,
+      "top": "0px",
+      "left": "0px",
+      "height": "80px",
+      "width": "600px",
+      "draggable": true
+    },
+    {
+      "name": "TODO",
+      "text": "TODO",
+      "color": "darkgreen",
+      "top": "100px",
+      "left": "0px",
+      "height": "800px",
+      "width": "200px",
+      "draggable": true,
+      "traylike": true,
+      "boxOfComponents": true,
+      "cardistry": ["shuffle"]
+    },
+    {
+      "name": "WIP",
+      "text": "WIP",
+      "color": "darkorange",
+      "top": "100px",
+      "left": "200px",
+      "height": "800px",
+      "width": "200px",
+      "draggable": true,
+      "traylike": true
+    },
+    {
+      "name": "Done",
+      "text": "Done",
+      "color": "darkblue",
+      "top": "100px",
+      "left": "400px",
+      "height": "800px",
+      "width": "200px",
+      "draggable": true,
+      "traylike": true
+    },
+    {
+      "name": "TDD 01",
+      "facedownText": "TDD FizzBuzz like",
+      "faceupText": "Output 'Fizz' if the number is divisible by 3.",
+      "color": "cyan",
+      "textColor": "black",
+      "top": "0px",
+      "left": "0px",
+      "height": "75px",
+      "width": "150px",
+      "draggable": true,
+      "flippable": true
+    },
+    {
+      "name": "TDD 02",
+      "facedownText": "TDD FizzBuzz like",
+      "faceupText": "Output 'Buzz' if the number is divisible by 5.",
+      "color": "cyan",
+      "textColor": "black",
+      "top": "80px",
+      "left": "0px",
+      "height": "75px",
+      "width": "150px",
+      "draggable": true,
+      "flippable": true
+    },
+    {
+      "name": "TDD 03",
+      "facedownText": "TDD FizzBuzz like",
+      "faceupText": "Output 'FizzBuzz' if the number is divisible by both 3 and 5.",
+      "color": "cyan",
+      "textColor": "black",
+      "top": "160px",
+      "left": "0px",
+      "height": "75px",
+      "width": "150px",
+      "draggable": true,
+      "flippable": true
+    },
+    {
+      "name": "TDD 04",
+      "facedownText": "TDD FizzBuzz like",
+      "faceupText": "Output 'FizzBuzz' if the number is divisible by both 3 and 5.",
+      "color": "cyan",
+      "textColor": "black",
+      "top": "240px",
+      "left": "0px",
+      "height": "75px",
+      "width": "150px",
+      "draggable": true,
+      "flippable": true
+    },
+    {
+      "name": "TDD 05",
+      "facedownText": "TDD FizzBuzz like",
+      "faceupText": "Output 'FizzBuzz' if the number is divisible by both 3 and 5.",
+      "color": "cyan",
+      "textColor": "black",
+      "top": "320px",
+      "left": "0px",
+      "height": "75px",
+      "width": "150px",
+      "draggable": true,
+      "flippable": true
+    },
+    {
+      "name": "TDD 06",
+      "facedownText": "TDD FizzBuzz like",
+      "faceupText": "Output 'FizzBuzz' if the number is divisible by both 3 and 5.",
+      "color": "cyan",
+      "textColor": "black",
+      "top": "400px",
+      "left": "0px",
+      "height": "75px",
+      "width": "150px",
+      "draggable": true,
+      "flippable": true
+    }
+  ]
+}
