@@ -13,7 +13,8 @@
         "TDD 03",
         "TDD 04",
         "TDD 05",
-        "TDD 06"
+        "TDD 06",
+        "TDD 07"
       ],
       "WIP": null,
       "Done": null
@@ -28,14 +29,15 @@
       "TDD 03",
       "TDD 04",
       "TDD 05",
-      "TDD 06"
+      "TDD 06",
+      "TDD 07"
     ]
   },
   "components": [
     {
       "name": "TDD Description",
-      "text": "FizzBuzz",
-      "text_ja": "100",
+      "text": "Write a program that prints the numbers from 1 to 100. But for multiples of three print 'Fizz' instead of the number and for the multiples of five print 'Buzz'. For numbers which are multiples of both three and five print 'FizzBuzz'.",
+      "text_ja": "1から100までの数をプリントするプログラムを書け。 ただし3の倍数のときは数の代わりに｢Fizz｣と、 5の倍数のときは｢Buzz｣とプリントし、 3と5両方の倍数の場合には｢FizzBuzz｣とプリントすること。",
       "color": "darkkhaki",
       "textColor": "black",
       "handArea": false,
@@ -83,7 +85,8 @@
     {
       "name": "TDD 01",
       "facedownText": "TDD FizzBuzz like",
-      "faceupText": "Output 'Fizz' if the number is divisible by 3.",
+      "faceupText": "Output the number.",
+      "faceupText_ja": "数字をそのままプリントする",
       "color": "cyan",
       "textColor": "black",
       "top": "0px",
@@ -96,7 +99,8 @@
     {
       "name": "TDD 02",
       "facedownText": "TDD FizzBuzz like",
-      "faceupText": "Output 'Buzz' if the number is divisible by 5.",
+      "faceupText": "Output 'Fizz' if the number is divisible by 3.",
+      "faceupText_ja": "3の倍数ならFizzとプリントする",
       "color": "cyan",
       "textColor": "black",
       "top": "80px",
@@ -109,7 +113,8 @@
     {
       "name": "TDD 03",
       "facedownText": "TDD FizzBuzz like",
-      "faceupText": "Output 'FizzBuzz' if the number is divisible by both 3 and 5.",
+      "faceupText": "Output 'Buzz' if the number is divisible by 5.",
+      "faceupText_ja": "5の倍数ならBuzzとプリントする",
       "color": "cyan",
       "textColor": "black",
       "top": "160px",
@@ -123,6 +128,7 @@
       "name": "TDD 04",
       "facedownText": "TDD FizzBuzz like",
       "faceupText": "Output 'FizzBuzz' if the number is divisible by both 3 and 5.",
+      "faceupText_ja": "3と5の倍数ならFizzBuzzとプリントする",
       "color": "cyan",
       "textColor": "black",
       "top": "240px",
@@ -135,7 +141,8 @@
     {
       "name": "TDD 05",
       "facedownText": "TDD FizzBuzz like",
-      "faceupText": "Output 'FizzBuzz' if the number is divisible by both 3 and 5.",
+      "faceupText": "Output 1 through 100.",
+      "faceupText_ja": "1から100まで繰り返す",
       "color": "cyan",
       "textColor": "black",
       "top": "320px",
@@ -148,10 +155,25 @@
     {
       "name": "TDD 06",
       "facedownText": "TDD FizzBuzz like",
-      "faceupText": "Output 'FizzBuzz' if the number is divisible by both 3 and 5.",
+      "faceupText": "Output 'Fuw' if the number contains 4 anywhere",
+      "faceupText_ja": "4がつく数字だったら'Fuw'とプリントする",
       "color": "cyan",
       "textColor": "black",
       "top": "400px",
+      "left": "0px",
+      "height": "75px",
+      "width": "150px",
+      "draggable": true,
+      "flippable": true
+    },
+    {
+      "name": "TDD 07",
+      "facedownText": "TDD FizzBuzz like",
+      "faceupText": "Skip the next number if the number is divisible by 9.",
+      "faceupText_ja": "9の倍数なら次の数字を飛ばす",
+      "color": "cyan",
+      "textColor": "black",
+      "top": "480px",
       "left": "0px",
       "height": "75px",
       "width": "150px",
