@@ -1,0 +1,72 @@
+{
+  "kit": {
+    "name": "The Kanban Game",
+    "label": "The Kanban Game",
+    "label_ja": "カンバンゲーム",
+    "height": "64px",
+    "width": "64px",
+    "boxAndComponents": {
+      "Story Box": [
+        "Story 01",
+        "Story 02"
+      ]
+    },
+    "usedComponentNames": [
+      "Story Box",
+      "Story 01",
+      "Story 02"
+    ]
+  },
+  "components": [
+    {
+      "name": "Story Box",
+      "text": "Story",
+      "color": "darkgrey",
+      "top": "0px",
+      "left": "0px",
+      "height": "300px",
+      "width": "300px",
+      "draggable": true,
+      "traylike": true,
+      "boxOfComponents": true,
+      "resizable": true,
+      "cardistry": [
+        "spread out",
+        "collect",
+        "flip all"
+      ]
+    },
+    {
+      "name": "Story 01",
+      "faceupImage": "images/Story_Back.png",
+      "facedownImage": "images/Story01.png",
+      "showImage": true,
+      "color": "cyan",
+      "textColor": "black",
+      "top": "0px",
+      "left": "0px",
+      "height": "120px",
+      "width": "200px",
+      "ownable": false,
+      "resizable": true,
+      "draggable": true,
+      "flippable": true
+    },
+    {
+      "name": "Story 02",
+      "faceupImage": "images/Story_Back.png",
+      "facedownImage": "images/Story02.png",
+      "showImage": true,
+      "color": "cyan",
+      "textColor": "black",
+      "top": "0px",
+      "left": "0px",
+      "height": "120px",
+      "width": "200px",
+      "ownable": false,
+      "resizable": true,
+      "draggable": true,
+      "flippable": true
+    }
+  ]
+}

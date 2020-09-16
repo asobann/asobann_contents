@@ -45,7 +45,8 @@
       "left": "0px",
       "height": "80px",
       "width": "600px",
-      "draggable": true
+      "draggable": true,
+      "resizable": true
     },
     {
       "name": "TODO",
@@ -58,6 +59,7 @@
       "draggable": true,
       "traylike": true,
       "boxOfComponents": true,
+      "resizable": true,
       "cardistry": ["shuffle"]
     },
     {
@@ -69,7 +71,8 @@
       "height": "800px",
       "width": "200px",
       "draggable": true,
-      "traylike": true
+      "traylike": true,
+      "resizable": true
     },
     {
       "name": "Done",
@@ -80,7 +83,8 @@
       "height": "800px",
       "width": "200px",
       "draggable": true,
-      "traylike": true
+      "traylike": true,
+      "resizable": true
     },
     {
       "name": "TDD 01",
