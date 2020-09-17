@@ -780,7 +780,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 36",
+      "name": "Number 36",
       "faceupText": "36",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -794,7 +794,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 37",
+      "name": "Number 37",
       "faceupText": "37",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -808,7 +808,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 38",
+      "name": "Number 38",
       "faceupText": "38",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -822,7 +822,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 39",
+      "name": "Number 39",
       "faceupText": "39",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -836,7 +836,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 40",
+      "name": "Number 40",
       "faceupText": "40",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -850,7 +850,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 41",
+      "name": "Number 41",
       "faceupText": "41",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -864,7 +864,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 42",
+      "name": "Number 42",
       "faceupText": "42",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -878,7 +878,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 43",
+      "name": "Number 43",
       "faceupText": "43",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -892,7 +892,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 44",
+      "name": "Number 44",
       "faceupText": "44",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -906,7 +906,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 45",
+      "name": "Number 45",
       "faceupText": "45",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -920,7 +920,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 46",
+      "name": "Number 46",
       "faceupText": "46",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -934,7 +934,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 47",
+      "name": "Number 47",
       "faceupText": "47",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -948,7 +948,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 48",
+      "name": "Number 48",
       "faceupText": "48",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -962,7 +962,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 49",
+      "name": "Number 49",
       "faceupText": "49",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -976,7 +976,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 50",
+      "name": "Number 50",
       "faceupText": "50",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -990,7 +990,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 51",
+      "name": "Number 51",
       "faceupText": "51",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1004,7 +1004,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 52",
+      "name": "Number 52",
       "faceupText": "52",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1018,7 +1018,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 53",
+      "name": "Number 53",
       "faceupText": "53",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1032,7 +1032,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 54",
+      "name": "Number 54",
       "faceupText": "54",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1046,7 +1046,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 55",
+      "name": "Number 55",
       "faceupText": "55",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1060,7 +1060,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 56",
+      "name": "Number 56",
       "faceupText": "56",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1074,7 +1074,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 57",
+      "name": "Number 57",
       "faceupText": "57",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1088,7 +1088,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 58",
+      "name": "Number 58",
       "faceupText": "58",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1102,7 +1102,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 59",
+      "name": "Number 59",
       "faceupText": "59",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1116,7 +1116,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 60",
+      "name": "Number 60",
       "faceupText": "60",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1130,7 +1130,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 61",
+      "name": "Number 61",
       "faceupText": "61",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1144,7 +1144,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 62",
+      "name": "Number 62",
       "faceupText": "62",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1158,7 +1158,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 63",
+      "name": "Number 63",
       "faceupText": "63",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1172,7 +1172,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 64",
+      "name": "Number 64",
       "faceupText": "64",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1186,7 +1186,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 65",
+      "name": "Number 65",
       "faceupText": "65",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1200,7 +1200,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 66",
+      "name": "Number 66",
       "faceupText": "66",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1214,7 +1214,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 67",
+      "name": "Number 67",
       "faceupText": "67",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1228,7 +1228,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 68",
+      "name": "Number 68",
       "faceupText": "68",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1242,7 +1242,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 69",
+      "name": "Number 69",
       "faceupText": "69",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1256,7 +1256,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 70",
+      "name": "Number 70",
       "faceupText": "70",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1270,7 +1270,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 71",
+      "name": "Number 71",
       "faceupText": "71",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1284,7 +1284,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 72",
+      "name": "Number 72",
       "faceupText": "72",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1298,7 +1298,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 73",
+      "name": "Number 73",
       "faceupText": "73",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1312,7 +1312,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 74",
+      "name": "Number 74",
       "faceupText": "74",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1326,7 +1326,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 75",
+      "name": "Number 75",
       "faceupText": "75",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1340,7 +1340,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 76",
+      "name": "Number 76",
       "faceupText": "76",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1354,7 +1354,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 77",
+      "name": "Number 77",
       "faceupText": "77",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1368,7 +1368,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 78",
+      "name": "Number 78",
       "faceupText": "78",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1382,7 +1382,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 79",
+      "name": "Number 79",
       "faceupText": "79",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1396,7 +1396,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 80",
+      "name": "Number 80",
       "faceupText": "80",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1410,7 +1410,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 81",
+      "name": "Number 81",
       "faceupText": "81",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1424,7 +1424,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 82",
+      "name": "Number 82",
       "faceupText": "82",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1438,7 +1438,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 83",
+      "name": "Number 83",
       "faceupText": "83",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1452,7 +1452,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 84",
+      "name": "Number 84",
       "faceupText": "84",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1466,7 +1466,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 85",
+      "name": "Number 85",
       "faceupText": "85",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1480,7 +1480,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 86",
+      "name": "Number 86",
       "faceupText": "86",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1494,7 +1494,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 87",
+      "name": "Number 87",
       "faceupText": "87",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1508,7 +1508,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 88",
+      "name": "Number 88",
       "faceupText": "88",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1522,7 +1522,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 89",
+      "name": "Number 89",
       "faceupText": "89",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1536,7 +1536,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 90",
+      "name": "Number 90",
       "faceupText": "90",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1550,7 +1550,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 91",
+      "name": "Number 91",
       "faceupText": "91",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1564,7 +1564,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 92",
+      "name": "Number 92",
       "faceupText": "92",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1578,7 +1578,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 93",
+      "name": "Number 93",
       "faceupText": "93",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1592,7 +1592,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 94",
+      "name": "Number 94",
       "faceupText": "94",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1606,7 +1606,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 95",
+      "name": "Number 95",
       "faceupText": "95",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1620,7 +1620,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 96",
+      "name": "Number 96",
       "faceupText": "96",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1634,7 +1634,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 97",
+      "name": "Number 97",
       "faceupText": "97",
       "facedownText": "100\n並べ",
       "color": "cyan",
@@ -1648,7 +1648,7 @@
       "faceup": false
     },
     {
-      "nam": "Number 98",
+      "name": "Number 98",
       "faceupText": "98",
       "facedownText": "100\n並べ",
       "color": "cyan",
