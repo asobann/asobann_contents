@@ -1,0 +1,3486 @@
+{
+  "kit": {
+    "name": "Win By Team!",
+    "label": "Win By Team!",
+    "label_ja": "チームで勝て！",
+    "height": "64px",
+    "width": "64px",
+    "boxAndComponents": {
+      "Card Box": [
+        "Card 01",
+        "Card 02",
+        "Card 03",
+        "Card 04",
+        "Card 05",
+        "Card 06",
+        "Card 07",
+        "Card 08",
+        "Card 09",
+        "Card 10",
+        "Card 11",
+        "Card 12",
+        "Card 13",
+        "Card 14",
+        "Card 15",
+        "Card 16",
+        "Card 17",
+        "Card 18",
+        "Card 19",
+        "Card 20",
+        "Card 21",
+        "Card 22",
+        "Card 23",
+        "Card 24",
+        "Card 25",
+        "Card 26",
+        "Card 27",
+        "Card 28",
+        "Card 29",
+        "Card 30",
+        "Card 31",
+        "Card 32",
+        "Card 33",
+        "Card 34",
+        "Card 35",
+        "Card 36",
+        "Card 37",
+        "Card 38",
+        "Card 39",
+        "Card 40",
+        "Card 41",
+        "Card 42",
+        "Card 43",
+        "Card 44",
+        "Card 45",
+        "Card 46",
+        "Card 47",
+        "Card 48",
+        "Card 49",
+        "Card 50"
+      ],
+      "Play Board": null,
+      "Player Board 1": null,
+      "Player Board 2": null,
+      "Player Board 3": null,
+      "Player Board 4": null,
+      "Box of Dev Chips": [
+        "Dev Chip of Impact",
+        "Dev Chip of Impact",
+        "Dev Chip of Impact",
+        "Dev Chip of Impact",
+        "Dev Chip of Impact",
+        "Dev Chip of Impact",
+        "Dev Chip of Impact",
+        "Dev Chip of Impact",
+        "Dev Chip of Impact",
+        "Dev Chip of Impact",
+        "Dev Chip of Impact",
+        "Dev Chip of Impact",
+        "Dev Chip of Impact",
+        "Dev Chip of Impact",
+        "Dev Chip of Impact",
+        "Dev Chip of Impact",
+        "Dev Chip of Impact",
+        "Dev Chip of Impact",
+        "Dev Chip of Impact",
+        "Dev Chip of Impact",
+        "Dev Chip of Impact",
+        "Dev Chip of Impact",
+        "Dev Chip of Impact",
+        "Dev Chip of Impact",
+        "Dev Chip of Impact",
+        "Dev Chip of Impact",
+        "Dev Chip of Impact",
+        "Dev Chip of Impact",
+        "Dev Chip of Impact",
+        "Dev Chip of Impact",
+        "Dev Chip of Efficiency",
+        "Dev Chip of Efficiency",
+        "Dev Chip of Efficiency",
+        "Dev Chip of Efficiency",
+        "Dev Chip of Efficiency",
+        "Dev Chip of Efficiency",
+        "Dev Chip of Efficiency",
+        "Dev Chip of Efficiency",
+        "Dev Chip of Efficiency",
+        "Dev Chip of Efficiency",
+        "Dev Chip of Efficiency",
+        "Dev Chip of Efficiency",
+        "Dev Chip of Efficiency",
+        "Dev Chip of Efficiency",
+        "Dev Chip of Efficiency",
+        "Dev Chip of Efficiency",
+        "Dev Chip of Efficiency",
+        "Dev Chip of Efficiency",
+        "Dev Chip of Efficiency",
+        "Dev Chip of Efficiency",
+        "Dev Chip of Efficiency",
+        "Dev Chip of Efficiency",
+        "Dev Chip of Efficiency",
+        "Dev Chip of Efficiency",
+        "Dev Chip of Efficiency",
+        "Dev Chip of Efficiency",
+        "Dev Chip of Efficiency",
+        "Dev Chip of Efficiency",
+        "Dev Chip of Efficiency",
+        "Dev Chip of Efficiency"
+      ],
+      "Box of Name Tags": [
+        "Name Tag A",
+        "Name Tag A",
+        "Name Tag B",
+        "Name Tag B",
+        "Name Tag C",
+        "Name Tag C",
+        "Name Tag D",
+        "Name Tag D"
+	  ]
+    },
+    "usedComponentNames": [
+      "Play Board",
+      "Player Board 1",
+      "Player Board 2",
+      "Player Board 3",
+      "Player Board 4",
+      "Card Box",
+      "Card 01",
+      "Card 02",
+      "Card 03",
+      "Card 04",
+      "Card 05",
+      "Card 06",
+      "Card 07",
+      "Card 08",
+      "Card 09",
+      "Card 10",
+      "Card 11",
+      "Card 12",
+      "Card 13",
+      "Card 14",
+      "Card 15",
+      "Card 16",
+      "Card 17",
+      "Card 18",
+      "Card 19",
+      "Card 20",
+      "Card 21",
+      "Card 22",
+      "Card 23",
+      "Card 24",
+      "Card 25",
+      "Card 26",
+      "Card 27",
+      "Card 28",
+      "Card 29",
+      "Card 30",
+      "Card 31",
+      "Card 32",
+      "Card 33",
+      "Card 34",
+      "Card 35",
+      "Card 36",
+      "Card 37",
+      "Card 38",
+      "Card 39",
+      "Card 40",
+      "Card 41",
+      "Card 42",
+      "Card 43",
+      "Card 44",
+      "Card 45",
+      "Card 46",
+      "Card 47",
+      "Card 48",
+      "Card 49",
+      "Card 50",
+      "Box of Dev Chips",
+      "Dev Chip of Impact",
+      "Dev Chip of Efficiency",
+      "Box of Name Tags",
+      "Name Tag A",
+      "Name Tag B",
+      "Name Tag C",
+      "Name Tag D"
+    ]
+  },
+  "components": [
+    {
+      "name": "Play Board",
+      "text": "",
+      "showImage": true,
+      "image": "playboard1500.png",
+      "color": "darkgrey",
+      "top": "0px",
+      "left": "0px",
+      "height": "844px",
+      "width": "1500px",
+      "flippable": false,
+      "draggable": false,
+      "traylike": true,
+      "boxOfComponents": false,
+      "resizable": false,
+      "zIndex": 1
+    },
+    {
+      "name": "Player Board 1",
+      "text": "",
+      "showImage": true,
+      "image": "player_board_left.png",
+      "color": "darkgrey",
+      "top": "100px",
+      "left": "-50px",
+      "height": "218px",
+      "width": "415px",
+      "flippable": false,
+      "draggable": false,
+      "traylike": true,
+      "boxOfComponents": false,
+      "resizable": false,
+      "zIndex": 2
+    },
+    {
+      "name": "Player Board 2",
+      "text": "",
+      "showImage": true,
+      "image": "player_board_left.png",
+      "color": "darkgrey",
+      "top": "500px",
+      "left": "-50px",
+      "height": "218px",
+      "width": "415px",
+      "flippable": false,
+      "draggable": false,
+      "traylike": true,
+      "boxOfComponents": false,
+      "resizable": false,
+      "zIndex": 2
+    },
+    {
+      "name": "Player Board 3",
+      "text": "",
+      "showImage": true,
+      "image": "player_board_right.png",
+      "color": "darkgrey",
+      "top": "100px",
+      "left": "1263px",
+      "height": "218px",
+      "width": "415px",
+      "flippable": false,
+      "draggable": false,
+      "traylike": true,
+      "boxOfComponents": false,
+      "resizable": false,
+      "zIndex": 2
+    },
+    {
+      "name": "Player Board 4",
+      "text": "",
+      "showImage": true,
+      "image": "player_board_right.png",
+      "color": "darkgrey",
+      "top": "500px",
+      "left": "1263px",
+      "height": "218px",
+      "width": "415px",
+      "flippable": false,
+      "draggable": false,
+      "traylike": true,
+      "boxOfComponents": false,
+      "resizable": false,
+      "zIndex": 2
+    },
+    {
+      "name": "Card Box",
+      "text": "",
+      "color": "lightgrey",
+      "top": "0px",
+      "left": "600px",
+      "height": "150px",
+      "width": "120px",
+      "draggable": true,
+      "traylike": true,
+      "boxOfComponents": true,
+      "resizable": true,
+      "cardistry": [
+        "collect",
+        "shuffle",
+        "flip all"
+      ],
+      "zIndex": 3
+    },
+    {
+      "name": "Card 01",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "生"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "3"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 02",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "I"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 03",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "I"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 04",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "生"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 05",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "生"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 06",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "I"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 07",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "生"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 08",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "I"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 09",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "生"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "3"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 10",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "グ"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "4"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 11",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "I"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 12",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "グ"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "3"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 13",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "生"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 14",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "生"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 15",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "I"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 16",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "生"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 17",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "グ"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "4"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 18",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "I"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 19",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "I"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "3"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 20",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "グ"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "4"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": "3"
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 21",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "I"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 22",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "グ"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "5"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 23",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "グ"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "3"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 24",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "I"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "3"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 25",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "グ"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "6"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 26",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "グ"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "5"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 27",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "グ"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "6"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 28",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "I"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "3"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 29",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "I"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "3"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 30",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "グ"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": "3"
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 31",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "グ"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "3"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 32",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "I"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 33",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "グ"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "4"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 34",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "グ"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": "3"
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 35",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "I"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 36",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "グ"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "5"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 37",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "生"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 38",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "生"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 39",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "グ"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "5"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 40",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "I"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": "3"
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 41",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "生"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 42",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "生"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 43",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "I"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 44",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "I"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 45",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "I"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 46",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "グ"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "3"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 47",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "グ"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "3"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": "3"
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 48",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "生"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 49",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "生"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": "1"
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Card 50",
+      "facedownImage": "card_back96.png",
+      "faceupImage": "card96.png",
+      "showImage": true,
+      "textColor": "black",
+      "glued": [
+          {
+            "top": "5px",
+            "left": "27px",
+            "height": "14px",
+            "width": "12px",
+            "text": "I"
+          },
+          {
+            "top": "5px",
+            "left": "56px",
+            "height": "14px",
+            "width": "12px",
+            "text": "2"
+          },
+          {
+            "top": "43px",
+            "left": "9px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "43px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "43px",
+            "left": "73px",
+            "height": "14px",
+            "width": "12px",
+            "text": ""
+          },
+          {
+            "top": "68px",
+            "left": "40px",
+            "height": "14px",
+            "width": "12px",
+            "text": "3"
+          }
+      ],
+      "color": "cyan",
+      "top": "5px",
+      "left": "20px",
+      "height": "96px",
+      "width": "96px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": true,
+      "faceup": false
+    },
+    {
+      "name": "Box of Dev Chips",
+      "top": "360px",
+      "left": "120px",
+      "height": "100px",
+      "width": "250px",
+      "color": "black",
+      "textColor": "white",
+      "showImage": false,
+      "text": "",
+      "handArea": false,
+      "draggable": true,
+      "flippable": false,
+      "ownable": false,
+      "resizable": false,
+      "rollable": false,
+      "traylike": true,
+      "boxOfComponents": true,
+      "cardistry": [
+        "collect in mess"
+      ],
+      "positionOfBoxContents": "random",
+      "zIndex": 2
+    },
+    {
+      "name": "Dev Chip of Impact",
+      "image": "dev_impact48.png",
+      "showImage": true,
+      "top": "20px",
+      "left": "40px",
+      "height": "48px",
+      "width": "48px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": false
+    },
+    {
+      "name": "Dev Chip of Efficiency",
+      "image": "dev_prod.png",
+      "showImage": true,
+      "top": "80px",
+      "left": "40px",
+      "height": "48px",
+      "width": "48px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": false
+    },
+    {
+      "name": "Box of Name Tags",
+      "top": "360px",
+      "left": "1300px",
+      "height": "80px",
+      "width": "80px",
+      "color": "darkorange",
+      "textColor": "white",
+      "showImage": false,
+      "text": "",
+      "handArea": false,
+      "draggable": true,
+      "flippable": false,
+      "ownable": false,
+      "resizable": false,
+      "rollable": false,
+      "traylike": true,
+      "boxOfComponents": true,
+      "positionOfBoxContents": "random",
+      "zIndex": 2
+    },
+    {
+      "name": "Name Tag A",
+      "image": "nametag_a24.png",
+      "showImage": true,
+      "top": "110px",
+      "left": "130px",
+      "height": "40px",
+      "width": "40px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": false
+    },
+    {
+      "name": "Name Tag B",
+      "image": "nametag_b24.png",
+      "showImage": true,
+      "top": "510px",
+      "left": "130px",
+      "height": "40px",
+      "width": "40px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": false
+    },
+    {
+      "name": "Name Tag C",
+      "image": "nametag_c24.png",
+      "showImage": true,
+      "top": "110px",
+      "left": "1300px",
+      "height": "40px",
+      "width": "40px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": false
+    },
+    {
+      "name": "Name Tag D",
+      "image": "nametag_d24.png",
+      "showImage": true,
+      "top": "510px",
+      "left": "1300px",
+      "height": "40px",
+      "width": "40px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": false
+    }
+  ]
+}
+
