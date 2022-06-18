@@ -6,7 +6,7 @@
     "height": "64px",
     "width": "64px",
     "boxAndComponents": {
-      "Description": null,
+      "Turtle Soup Description": null,
       "Riddles": [
         "Riddle 01",
         "Riddle 02",
@@ -25,7 +25,7 @@
       ]
     },
     "usedComponentNames": [
-      "Description",
+      "Turtle Soup Description",
       "Riddles",
       "Answers",
       "Riddle 01",
@@ -44,7 +44,7 @@
   },
   "components": [
     {
-      "name": "Description",
+      "name": "Turtle Soup Description",
       "text": "「ウミガメのスープ」は水平思考ゲームです。1人がゲームマスターになります。質問を1枚選び、ゲームマスターだけがその解答を見ます。参加者は「Yes」「No」「関係ない」で答えられる質問をゲームマスターにできます。正しい解答をしたら勝利です。",
       "text_ja": "「ウミガメのスープ」は水平思考ゲームです。1人がゲームマスターになります。質問を1枚選び、ゲームマスターだけがその解答を見ます。参加者は「Yes」「No」「関係ない」で答えられる質問をゲームマスターにできます。正しい解答をしたら勝利です。",
       "color": "#cc99cc",

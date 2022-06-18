@@ -6,7 +6,7 @@
     "height": "64px",
     "width": "64px",
     "boxAndComponents": {
-      "Description": null,
+      "Get The Treasure Description": null,
       "Cards": [
         "Card 01",
         "Card 02",
@@ -24,7 +24,7 @@
       "Stowage for Unused Cards": null
     },
     "usedComponentNames": [
-      "Description",
+      "Get The Treasure Description",
       "Cards",
       "Card 01",
       "Card 02",
@@ -43,7 +43,7 @@
   },
   "components": [
     {
-      "name": "Description",
+      "name": "Get The Treasure Description",
       "text": "ここは秘境の地。原住民の村が散らばる中に、秘宝が隠されています。いま、探検家がお宝を奪いにやってきました。しかしお宝は守り神によって守られています。守り神が探検家を撃退するのでしょうか？ 探検家が首尾よくお宝を見つけるでしょうか？",
       "text_ja": "ここは秘境の地。原住民の村が散らばる中に、秘宝が隠されています。いま、探検家がお宝を奪いにやってきました。しかしお宝は守り神によって守られています。守り神が探検家を撃退するのでしょうか？ 探検家が首尾よくお宝を見つけるでしょうか？",
       "color": "darkkhaki",
