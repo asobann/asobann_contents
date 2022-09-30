@@ -162,7 +162,8 @@
       "Name Tag C1": null,
       "Name Tag C2": null,
       "Name Tag D1": null,
-      "Name Tag D2": null
+      "Name Tag D2": null,
+      "Limit Marker": null
     },
     "usedComponentNames": [
       "Play Board",
@@ -259,7 +260,8 @@
       "Name Tag C1",
       "Name Tag C2",
       "Name Tag D1",
-      "Name Tag D2"
+      "Name Tag D2",
+      "Limit Marker"
     ]
   },
   "components": [
@@ -370,7 +372,7 @@
     {
       "name": "Victory Condition Box B",
       "text": "",
-      "color": "lightpink",
+      "color": "lightgreen",
       "top": "-100px",
       "left": "990px",
       "height": "100px",
@@ -389,7 +391,7 @@
     {
       "name": "Victory Condition Box C",
       "text": "",
-      "color": "lightpink",
+      "color": "lightyellow",
       "top": "-100px",
       "left": "1280px",
       "height": "100px",
@@ -4055,6 +4057,19 @@
       "left": "1350px",
       "height": "40px",
       "width": "40px",
+      "ownable": false,
+      "resizable": false,
+      "draggable": true,
+      "flippable": false
+    },
+    {
+      "name": "Limit Marker",
+      "image": "limit_marker.png",
+      "showImage": true,
+      "top": "20px",
+      "left": "700px",
+      "height": "72px",
+      "width": "90px",
       "ownable": false,
       "resizable": false,
       "draggable": true,
